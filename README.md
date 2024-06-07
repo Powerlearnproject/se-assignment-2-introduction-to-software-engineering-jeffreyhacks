@@ -6,9 +6,11 @@ Instructions:
 Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
 
 Questions:
-Define Software Engineering: Software engineering is a systematic approach to designing, implementing, and maintaining software systems, focusing on producing high-quality, reliable, and efficient software.
+Define Software Engineering: 
+Software engineering is a systematic approach to designing, implementing, and maintaining software systems, focusing on producing high-quality, reliable, and efficient software.
 
-What is software engineering, and how does it differ from traditional programming? Software engineering is a systematic approach to software development that goes beyond mere coding. It involves project planning, requirements analysis, design, implementation, testing, and ongoing maintenance. Unlike traditional programming, which focuses on individual scripts, software engineering aims to create scalable, adaptable, and well-structured software systems.
+What is software engineering, and how does it differ from traditional programming?
+Software engineering is a systematic approach to software development that goes beyond mere coding. It involves project planning, requirements analysis, design, implementation, testing, and ongoing maintenance. Unlike traditional programming, which focuses on individual scripts, software engineering aims to create scalable, adaptable, and well-structured software systems.
 Software Development Life Cycle (SDLC):
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
@@ -37,7 +39,7 @@ Compare and contrast the Agile and Waterfall models of software development. Wha
 Requirements Engineering:
 
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
-Requirement engineering is the process of determining user expectations and for a new modified product.This is important because it lays the foundation for all subsequent development activities which helps prevent scope creeping,ensuring project alignment and with business goals hence reducing risk of project failure.
+ Requirement engineering is the process of determining user expectations and for a new modified product.This is important because it lays the foundation for all subsequent development activities which helps prevent scope creeping,ensuring project alignment and with business goals hence reducing risk of project failure.
  Requirement engineering is divided into several distinct phases:
      1. Feasibility study; this is phase assesses whether the project should proceed by examining the proposed system`s technical, economic,legal,operational and schedule feasibility.
      2. Requirement elicitation and analysis; this is phase involves gathering the requirements from various stake holders and analyzing the gathered requirements to detect conflicts,inconsistencies and ambiguities hence prioritizes requirements based on factors like feasibility, importance and risk.
@@ -60,7 +62,8 @@ Modularity is a design principle that involves breaking down a software into sma
 Testing in Software Engineering:
 
 Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
-Software testing is the process of evaluating and verifying that the software application meets the specified requirements. it involves executing the software in a controlled environment to identify defects , ensure quality and verify that the software behaves correctly under different environments. this process involves testing  on different level: ie
+ Software testing is the process of evaluating and verifying that the software application meets the specified requirements. it involves executing the software in a controlled environment to identify defects , ensure 
+ quality and verify that the software behaves correctly under different environments. this process involves testing  on different level: ie
   1. UNIT TESTING: this involves testing modules in isolation to ensure they work properly. This ensures early detection of defects,simplifies debugging since tests are done on individual components and facilitates refactoring by providing a safety net that allows developers to refactor code without fear of introducing new bugs.
   2. Integration testing: This level of testing involves interaction between different modules that have been unit tested. This level detects interface issues arising from interaction of integrated components such as mismatch in data formats or incorrect APIs. It also ensure data is correctly passed between modulesand mitigates risk involved with module integration.
   3.   System testing: This level of testing the entire system is tested as a whole to ensure it meets the set requirements it focuses mainly on the end-end requirement. this level of testing ensures that the system as awhole meets the functionak abd non functional requirements,covers a wide range of test including user  interactions to system performance and security.
@@ -96,7 +99,7 @@ Version Control Systems are software tools that allow developers to manage and c
 Software Project Management:
 
 Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
-A software project manager is responsible for planning executing and overseeing software development. Their key responsibilities are ensuring that project are completed on time and with budget;
+  A software project manager is responsible for planning executing and overseeing software development. Their key responsibilities are ensuring that project are completed on time and with budget;
      KEY RESPONSIBILITIES
          1. project planning amd scheduling
          2. Team management
@@ -141,8 +144,10 @@ What are some ethical issues that software engineers might face? How can softwar
      3. continuous education and training by staying informed about latest developments in tech,laws and ethical guidelines.
      4. Ethical decision making-Utilizing ethical decision-making frameworks to evaluate the implications of software design and implementation choices.
      5.Transparency and communication-maintaining open communication with stakeholders,including users ,clients and team members about ethical considerations.
-     REFERENCES
-     Software Maintenance:
+
+      REFERENCES
+     chat GPT
+    COPILOT
 
 IEEE Standard for Software Maintenance: Provides guidelines and standards for software maintenance practices.
 Pressman, R. S. (2014). 
